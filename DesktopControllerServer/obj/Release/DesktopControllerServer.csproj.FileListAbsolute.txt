@@ -1,0 +1,8 @@
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\bin\Release\DesktopControllerServer.exe.config
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\bin\Release\DesktopControllerServer.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\bin\Release\DesktopControllerServer.pdb
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\obj\Release\DesktopControllerServer.Properties.Resources.resources
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\obj\Release\DesktopControllerServer.csproj.GenerateResource.Cache
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\obj\Release\DesktopControllerServer.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\obj\Release\DesktopControllerServer.pdb
+C:\Users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerServer\obj\Release\DesktopControllerServer.csprojResolveAssemblyReference.cache

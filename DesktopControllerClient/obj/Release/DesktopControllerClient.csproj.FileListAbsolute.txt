@@ -1,0 +1,8 @@
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\bin\Release\DesktopControllerClient.exe.config
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\bin\Release\DesktopControllerClient.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\bin\Release\DesktopControllerClient.pdb
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\obj\Release\DesktopControllerClient.Form1.resources
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\obj\Release\DesktopControllerClient.Properties.Resources.resources
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\obj\Release\DesktopControllerClient.csproj.GenerateResource.Cache
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\obj\Release\DesktopControllerClient.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\DesktopControllerClient\DesktopControllerClient\obj\Release\DesktopControllerClient.pdb
